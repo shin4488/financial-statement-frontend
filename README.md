@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **このリポジトリは [financial-statement](https://github.com/shin4488/financial-statement)（monorepo）へ統合済み（2026-08）。**
+> 全履歴ごと `application/frontend` ディレクトリとして移行し、以後の開発はmonorepo側で行う。本リポジトリはアーカイブとして凍結。
+
 # investee フロントエンド（React SPA）
 
 上場企業の財務3表を積み上げグラフ・ウォーターフォールグラフで表示する画面。
